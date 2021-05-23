@@ -151,3 +151,19 @@ img{
     opacity: 0.8;
     font-family: 'Roboto', sans-serif;
 }
+
+.link-wrapper {
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+.author {
+    color:rgb(235, 14, 14);
+    font-size: 13px;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: 0.3s;
+}
